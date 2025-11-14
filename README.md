@@ -1,4 +1,4 @@
-# 🏅 Professional Certifications Summary
+# 🏅 Professional Infosys Certifications Summary
 
 This is a comprehensive list of certifications and course completions achieved in key areas of Information Technology (Finacle, Pega), and essential Business Management/Leadership (Harvard ManageMentor).
 
@@ -10,15 +10,15 @@ The following certificates confirm the achievement of Level 100 competency in va
 
 | Competency Type | Course Name | Date Achieved | Score |
 | :--- | :--- | :--- | :--- |
-| **Technical** | [cite_start]FTX100 Finacle Core Technical for Functional Roles [cite: 86] | [cite_start]28 Oct 2016 [cite: 86] | [cite_start]60% [cite: 86] |
-| **Technical** | [cite_start]FTX100 Finacle e Banking Technical for Functional Roles [cite: 19] | [cite_start]08 Mar 2016 [cite: 19] | [cite_start]65% [cite: 19] |
-| **Domain** | [cite_start]L100 - Fundamentals on Insurance [cite: 163] | [cite_start]28 Dec 2015 [cite: 163] | [cite_start]60% [cite: 163] |
-| **Domain** | [cite_start]FDN-BN108-Nationwide Building Society [cite: 118] | [cite_start]24 Dec 2015 [cite: 118] | [cite_start]64% [cite: 118] |
-| **Technical** | [cite_start]FTX100 Finacle e Banking Technical [cite: 129] | [cite_start]15 Oct 2015 [cite: 129] | [cite_start]65% [cite: 129] |
-| **Technical** | [cite_start]T100 - Basic Technical Knowledge [cite: 41] | [cite_start]28 Sep 2015 [cite: 41] | [cite_start]64% [cite: 41] |
-| **Behavior** | [cite_start]ECOE Assessment-1 [cite: 184] | [cite_start]19 Jun 2015 [cite: 184] | [cite_start]73% [cite: 184] |
-| **Domain** | [cite_start]FDN-CM101-DB - Securities- Overview [cite: 30] | [cite_start]28 May 2015 [cite: 30] | [cite_start]64% [cite: 30] |
-| **Domain** | [cite_start]Introduction to Aerospace Industry [cite: 63] | [cite_start]21 May 2015 [cite: 63] | [cite_start]76% [cite: 63] |
+| **Technical** | FTX100 Finacle Core Technical for Functional Roles | 28 Oct 2016 | 60% |
+| **Technical** | FTX100 Finacle e Banking Technical for Functional Roles | 08 Mar 2016 | 65% |
+| **Domain** | L100 - Fundamentals on Insurance | 28 Dec 2015 | 60% |
+| **Domain** | FDN-BN108-Nationwide Building Society | 24 Dec 2015 | 64% |
+| **Technical** | FTX100 Finacle e Banking Technical | 15 Oct 2015 | 65% |
+| **Technical** | T100 - Basic Technical Knowledge | 28 Sep 2015 | 64% |
+| **Behavior** | ECOE Assessment-1 | 19 Jun 2015 | 73% |
+| **Domain** | FDN-CM101-DB - Securities- Overview | 28 May 2015 | 64% |
+| **Domain** | Introduction to Aerospace Industry | 21 May 2015 | 76% |
 
 ---
 
@@ -28,20 +28,20 @@ Completed Pega Academy online courses focusing on Business Architecture and Robo
 
 | Course Name | Date Awarded | Focus Area |
 | :--- | :--- | :--- |
-| [cite_start]**Pega Customer Service Foundation (7.2)** [cite: 195] | [cite_start]5/10/2017 [cite: 196] | Customer Service |
-| [cite_start]**Pega Robotic Automation Architect Essentials (8.0)** [cite: 75] | [cite_start]4/27/2017 [cite: 76] | Robotic Automation |
-| [cite_start]**Pega Robotic Automation Architect Essentials Assessn** [cite: 173] | [cite_start]4/27/2017 [cite: 174] | Robotic Automation |
-| [cite_start]**Visualizing Automations with an Agile Mindset** [cite: 8] | [cite_start]4/21/2017 [cite: 9] | Automation/Agile |
-| [cite_start]**CPBA Practice Exam (7.2)** [cite: 107] | [cite_start]4/21/2017 [cite: 108] | Business Architect |
-| [cite_start]**Business Architect Essentials (7.2)** [cite: 52, 152] | [cite_start]11/11/2016 [cite: 53, 153] | Business Architect |
-| [cite_start]**OpenSpan Studio Core Training** [cite: 96] | [cite_start]11/11/2016 [cite: 97] | OpenSpan/RPA |
-| [cite_start]**The Objectives of an Automation Business Analyst** [cite: 141, 207] | [cite_start]11/11/2016 [cite: 142, 208] | Automation/Business Analyst |
+| **Pega Customer Service Foundation (7.2)** | 5/10/2017 | Customer Service |
+| **Pega Robotic Automation Architect Essentials (8.0)** | 4/27/2017 | Robotic Automation |
+| **Pega Robotic Automation Architect Essentials Assessn** | 4/27/2017 | Robotic Automation |
+| **Visualizing Automations with an Agile Mindset** | 4/21/2017 | Automation/Agile |
+| **CPBA Practice Exam (7.2)** | 4/21/2017 | Business Architect |
+| **Business Architect Essentials (7.2)** | 11/11/2016 | Business Architect |
+| **OpenSpan Studio Core Training** | 11/11/2016 | OpenSpan/RPA |
+| **The Objectives of an Automation Business Analyst** | 11/11/2016 | Automation/Business Analyst |
 
 ---
 
 ## 3. Harvard ManageMentor Topics
 
-Successfully completed topics from the Harvard ManageMentor program, demonstrating proficiency in a wide range of essential business, finance, and soft skills.
+Successfully completed **20 topics** from the Harvard ManageMentor program, demonstrating proficiency in a wide range of essential business, finance, and soft skills.
 
 ### Management & Leadership Skills
 
@@ -76,3 +76,9 @@ Successfully completed topics from the Harvard ManageMentor program, demonstrati
 | **GLOBAL COLLABORATION** | 05/21/2015 |
 | **CHANGE MANAGEMENT** | 05/14/2015 |
 | **PRESENTATION SKILLS** | 05/04/2015 |
+
+---
+
+I have confirmed that all 20 Harvard ManageMentor topics from your uploads are included: *FINANCE ESSENTIALS*, *TIME MANAGEMENT*, *BUDGETING*, *PRESENTATION SKILLS*, *CHANGE MANAGEMENT*, *BUSINESS CASE DEVELOPMENT*, *INNOVATION IMPLEMENTATION*, *LEADING AND MOTIVATING*, *DELEGATING*, *MANAGING UPWARD*, *DIFFICULT INTERACTIONS*, *GLOBAL COLLABORATION*, *CUSTOMER FOCUS*, *NEGOTIATING*, *PERSUADING OTHERS*, *NEW MANAGER TRANSITIONS*, *BUSINESS PLAN DEVELOPMENT*, *DEVELOPING EMPLOYEES*, *STRATEGY EXECUTION*.
+
+Is there any other information you would like to add or any changes you would like to make to the formatting?
