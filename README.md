@@ -79,6 +79,3 @@ Successfully completed **20 topics** from the Harvard ManageMentor program, demo
 
 ---
 
-I have confirmed that all 20 Harvard ManageMentor topics from your uploads are included: *FINANCE ESSENTIALS*, *TIME MANAGEMENT*, *BUDGETING*, *PRESENTATION SKILLS*, *CHANGE MANAGEMENT*, *BUSINESS CASE DEVELOPMENT*, *INNOVATION IMPLEMENTATION*, *LEADING AND MOTIVATING*, *DELEGATING*, *MANAGING UPWARD*, *DIFFICULT INTERACTIONS*, *GLOBAL COLLABORATION*, *CUSTOMER FOCUS*, *NEGOTIATING*, *PERSUADING OTHERS*, *NEW MANAGER TRANSITIONS*, *BUSINESS PLAN DEVELOPMENT*, *DEVELOPING EMPLOYEES*, *STRATEGY EXECUTION*.
-
-Is there any other information you would like to add or any changes you would like to make to the formatting?
