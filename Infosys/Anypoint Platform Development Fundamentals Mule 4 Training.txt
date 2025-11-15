@@ -1,0 +1,93 @@
+What are the objectives of Mulesoft Training ?
+At the end of this course, students should be able to:
+
+Build an application network using API-led connectivity and Anypoint Platform.
+Use Anypoint Platform to discover, consume, design, build, deploy, manage, and govern APIs.
+Connect to databases, files, web services, SaaS applications, JMS queues, and more.
+Add application logic, handle errors, and transform data using DataWeave.
+Structure applications to facilitate development and deployment.
+Handle batch data processing.
+ 
+Module 1: Introducing Application Networks and API-Led Connectivity
+Explain what an application network is and its benefits
+Describe how to build an application network using API-led connectivity
+Explain what web services and APIs are
+Explore API directories and portals
+Make calls to secure and unsecured APIs
+
+ Module 2: Introducing Anypoint Platform
+Identify all the components of Anypoint Platform
+Describe the role of each component in building application networks
+Navigate Anypoint Platform
+Locate APIs and other assets needed to build integrations and APIs in Anypoint Exchange
+Build basic integrations to connect systems using flow designer
+
+ Module 3: Designing APIs
+Define APIs with RAML, the Restful API Modeling Language
+Mock APIs to test their design before they are built
+Make APIs discoverable by adding them to Anypoint Exchange
+Create API portals for developers to learn how to use APIs
+
+ Module 4: Building APIs
+Use Anypoint Studio to create flows graphically
+Build, run, and test Mule applications
+Use a connector to connect to databases
+Use the graphical DataWeave editor to transform data
+Create RESTful interfaces for applications from a RAML file
+Connect API interfaces to API implementations
+
+ Module 5: Deploying and Managing APIs
+Describe the options for deploying Mule applications
+Deploy Mule applications to CloudHub
+Use API Manager to create and deploy API proxies to CloudHub
+Restrict access to API proxies
+
+ Module 6: Accessing and Modifying Mule Events
+Log event data
+Debug Mule applications
+Read and write event properties
+Write expressions with DataWeave
+Create variables
+
+ Module 7: Structuring Mule Applications
+Create and reference flows and subflows
+Pass messages between flows using the Java Virtual Machine (VM) transport
+Use properties in Mule applications so they can be easily moved between environments
+Encapsulate global elements in separate configuration files
+Explore the files and folder structure of Mule projects and deployable archives
+
+ Module 8: Consuming Web Services
+Consume RESTful web services with and without parameters
+Consume RESTful web services that have RAML definitions
+Consume SOAP web services
+Use DataWeave to pass parameters to SOAP web services
+
+ Module 9: Controlling Event Flow
+Route events based on conditions
+Multicast events
+Validate events
+
+ Module 10: Handling Errors
+Handle messaging errors in flows
+Handle errors for one or more event processors instead of at the flow level
+Create and use global error handlers
+Specify a default error handler
+
+ modulesCall Mule flows from DataWeave transformations
+Write DataWeave expressions for basic and complex XML, JSON, and Java transformations
+Use DataWeave operators and coerce and format strings, numbers, and dates
+Define and use custom data types
+Simplify and abstract DataWeave code into reusable functions and modules
+Call Mule flows from DataWeave transformations
+
+ Module 12: Connecting to Additional Resources
+Connect to JMS queues
+Connect to files
+Connect to SaaS applications
+Poll resources
+
+ Module 13: Processing Records
+Use the For Each scope to process items in a collection in series
+Use the Batch scope to process individual records in parallel
+Use batch jobs to synchronize data from legacy databases to SaaS applications
+
