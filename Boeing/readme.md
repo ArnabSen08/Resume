@@ -46,3 +46,10 @@ Certifications in the Scaled Agile Framework (SAFe®), covering various roles in
 * The Effective Facilitation Workshop
 * The Control Chart Mistakes and How to Avoid Them Mini-Workshop
 * The Root Cause Analysis Mini Workshop
+
+## 4. 🔬 Specialized Technical & Security Achievements
+
+| Achievement Name | Provider | Date / Duration | Key Focus Area |
+| :--- | :--- | :--- | :--- |
+| **Introduction to Quantum Computing Course** | Qubit by Qubit, sponsored by IBM Quantum | Oct 2020 - May 2021 | Developed a foundational understanding of quantum computing, including linear algebra, Qiskit coding, quantum mechanics, and algorithms. |
+| **Security White Belt** | Security Journey | August 25, 2022 | Demonstrated mastery in the role of White Belt, focusing on basic security vocabulary and foundational security thinking. |
